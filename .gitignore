@@ -1,0 +1,12 @@
+# Project Specific
+data*
+logs*
+__pycache__*
+
+# Ignored folders
+playground/*
+raw_data/*
+KPGP/data/*
+
+# macOS
+**/.DS_Store
